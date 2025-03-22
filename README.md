@@ -191,9 +191,9 @@ Prefixul tabelelor: wp_.
 - Se pornește containerul.
 - Se verifică functionarea site-ului WordPress.
  
-![Descrierea imaginii](images\Capture.JPG)
-![Descrierea imaginii](images\Capture1.JPG)
-![Descrierea imaginii](images\Capture3.JPG)
+![Descrierea imaginii](images/Capture.JPG)
+![Descrierea imaginii](images/Capture1.JPG)
+![Descrierea imaginii](images/Capture3.JPG)
 
 ## **Răspunsuri la întrebări**
 
